@@ -1,0 +1,25 @@
+{
+
+  "name": "zwo-v13-bos",
+  "version": "0.0.8",
+  "description": "Zwo basit Discord V13 boş altyapı",
+  "main": "zwo.js",
+  "scripts": {
+    "start": "node ."
+
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies":{
+    "node": "16.6.0"
+  },
+
+  "dependencies": {
+    "path": "^0.12.7",
+    "fs": "^0.0.2",
+    "discord.js": "^13.0.1"
+  }
+
+}
